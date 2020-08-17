@@ -1,0 +1,40 @@
+
+body 
+{
+   background-color:black;
+	background-image : url("images/lights.jpg");
+	background-repeat: repeat-x;
+	background-attachment:fixed;
+	background-position:  50%;
+    
+
+}
+h1
+{
+color : gold;
+ font-variant:small-caps;
+ font-style:italic;
+ text-align:center;
+
+ 
+ 
+}
+h2
+{ 
+text-transform:capitalize;
+ text-indent:60;
+  text-align:center;
+  color: white;
+}
+
+p
+{
+border-style:dotted;
+border-color:white;
+border-width:thick;
+text-transform:capitalize;
+
+text-align:left;
+color:chartreuse;
+text-decoration:none;
+}

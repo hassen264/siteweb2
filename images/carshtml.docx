@@ -1,0 +1,169 @@
+<html>
+     <head>
+  <title>  CARS </title>
+      </head>
+   <style>
+   body
+   {
+    background-color:white;
+    background-image : url("cars.jpg");
+    background-repeat: repeat-x;
+    background-attachment:fixed;
+    background-position:  50%;
+   
+   }
+   h2
+   {color:red;}
+   b
+   {
+   color:deeppink;
+   }
+   h3
+   {
+   text-align:left;
+   color:black;
+   }
+   h3
+   {border-style:outset;border-color:gainsboro;}
+   img
+   {
+   float:left;
+   }
+   
+   </style>
+   
+  <body >
+           <center> <h2> <u> THE EVOLUTION OF CARS SINCE ITS FIRST CREATEDS </u></h2> </center> 
+		   <h3><font face ="time new romana"><i>The early history of the automobile can be divided into a number of eras, based on the prevalent means of propulsion. An automobile, autocar, motor car or car is a wheeled motor vehicle used for transporting passengers, which also carries its own engine or motor. Most definitions of the term specify that automobiles are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels, and to be constructed principally for the transport of people rather than goods.</i></font></h2>
+     <h2><b><font face ="arial">1889 Panhard et Levassor (France) </font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Panhard_%26_Levassor_Type_A"> <img src="1889PanhardetLevassor(France).jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1891 Peugeot (France)</font></b></h3> 
+      <a href =".https://fr.wikipedia.org/wiki/Peugeot_Type_3"> <img src="1891Peugeot.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1893 Duryea Motor Wagon Co. (USA)</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Duryea_Motor_Wagon_Company"> <img src="1893DuryeaMotorWagonCo.png"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1899 FIAT (Italy)</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Fiat_4_HP"> <img src="1899FIAT.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1900Vincke, Germain, Linon and Nagant (Belgium);</font></b></h3>
+      <a href ="https://de.wikipedia.org/wiki/Ateliers_Linon"> <img src="1900VinckeGermainLinonandNagant.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1902 Olds Motor Vehicle Company / Oldsmobile (USA)</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Oldsmobile"> <img src="1902OldsMotorVehicleCompany.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1903 Cadillac, Winton, and Ford (USA)</font></b></h3>
+      <a href =".https://www.pinterest.fr/pin/328903579006417503/"> <img src="1903CadillacWintonandFord.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1908 Ford Model T</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Ford_T"> <img src="1908FordModelT.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1910 Mercer Raceabout</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Mercer_(automobile)"> <img src="1910MercerRaceabout.jpg"> </a><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1910 Bugatti Type 13</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Bugatti_Type_13"> <img src="1910BugattiType 13.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1922 Austin 7, Lancia Lambda</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Lancia_Lambda"> <img src="1922Austin7LanciaLambda.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1924 Bugatti Type 35</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Bugatti_Type_35"> <img src="BugattiType35.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1925 Hanomag 2 / 10 PS</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Hanomag_2/10_PS"> <img src="Hanomag210PS.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1927 Ford Model A</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Ford_A"> <img src="FordModelA.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1930 Cadillac V-16</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Cadillac_V-16"> <img src="CadillacV16.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1932 Alvis Speed 20 and Speed 25, Ford V-8</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Alvis_Speed_20"> <img src="AlvisSpeed20andSpeed25FordV8.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1934 Bugatti Type 57, Citroën Traction Avant</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Bugatti_Type_57"> <img src="BugattiType57.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1936 MG T Series, Rolls-Royce Phantom III</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/MG_T-type"> <img src="MGTSeries.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1938 Volkswagen Beetle</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Volkswagen_Beetle"> <img src="VolkswagenBeetle.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1948 Morris Minor</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Morris_Minor"> <img src="MorrisMinor.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1959 MINI</font></b></h3>
+      <a href ="https://fr.m.wikipedia.org/wiki/Fichier:Morris_Mini-Minor_1959_(621_AOK).jpg"> <img src="1959MINI.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1961 Jaguar E-Type</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Jaguar_E-Type"> <img src="JaguarEType.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1964 Ford Mustang</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"> <img src="1964FordMustang.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1969 Datsun 240Z</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Datsun_240Z"> <img src="Datsun240Z.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1966 Toyota Corolla</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Toyota_Corolla"> <img src="1966ToyotaCorolla.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1967 NSU Ro 80</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/NSU_Ro_80"> <img src="NSURo80.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1973 Mercedes-Benz S-Class</font></b></h3>	
+      <a href ="https://en.wikipedia.org/wiki/Mercedes-Benz_W116"> <img src="MercedesBenzSClass.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1975 BMW 3 Series</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/BMW_3_Series_(E21)"> <img src="BMW3Series.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1977 Honda Accord</font></b></h3>
+      <a href ="https://bringatrailer.com/listing/1977-honda-accord/"> <img src="1977HondaAccord.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1981 Dodge Aries and Plymouth Reliant</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Plymouth_Reliant"> <img src="1981DodgeAriesandPlymouthReliant.png"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+           <h2><b><font face ="arial">1983 Chrysler minivans</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Chrysler_minivans_(S)"> <img src="1983Chryslerminivans.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <h2><b><font face ="arial">1986 Ford Taurus</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Ford_Taurus_(first_generation)"> <img src="1986FordTaurus.jpg"> </a><br><br><br><br><br><br><br><br><br><br>
+           <h2><b><font face ="arial">1987 Ford Festiva</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Ford_Festiva"> <img src="1987FordFestiva.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+           <h2><b><font face ="arial">1988 BMW 5 Series (E34)</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/BMW_5_Series_(E34)"> <img src="1988BMW5SeriesE34.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+           <h2><b><font face ="arial">1989 Holden Apollo</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Holden_Apollo"> <img src="1989HoldenApollo.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+          <h2><b><font face ="arial">1990Holden Caprice</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Holden_Caprice_(VQ)"> <img src="1990HoldenCaprice.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1991Holden Commodore (VP)</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Holden_Commodore_(VN)"> <img src="1991HoldenCommodoreVP.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1992Ford Falcon GT</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Ford_Falcon_GT"> <img src="1992FordFalconGT.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+          <h2><b><font face ="arial">1993 Holden Commodore(vr)</font></b></h3>
+      <a href ="https://commons.wikimedia.org/wiki/File:Holden_Commodore_SS_(1993-1994_VR_series)_01.jpg"> <img src="1993HoldenCommodorevr.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1994 Ferrari F355</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Ferrari_F355"> <img src="1994FerrariF355.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1995Fiat Barchetta </font></b></h3>
+     <a href ="https://fr.wikipedia.org/wiki/Fiat_Barchetta"> <img src="1995FiatBarchetta.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+     <h2><b><font face ="arial">1996Isotta Fraschini T8 and T12</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Isotta_Fraschini_T8_and_T12"> <img src="1996IsottaFraschiniT8.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1997 Hyundai Atos</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Hyundai_Atos"> <img src="1997HyundaiAtos.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1998Holden Suburban</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Chevrolet_Suburban"> <img src="1998HoldenSuburban.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">1999Hyundai Equus</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Hyundai_Equus"> <img src="1999HyundaiEquus.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2000Kia Optima</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Kia_Optima"> <img src="2000KiaOptima.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2001 Hyundai Lavita</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Hyundai_Lavita"> <img src="2001HyundaiLavita.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <h2><b><font face ="arial">2003Ford Falcon GT</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Ford_Falcon_GT"> <img src="2003FordFalconGT.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2004 Honda Elysion</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Honda_Elysion"> <img src="2004HondaElysion.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2005 Fiat Croma</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Fiat_Croma_(2005)"> <img src="2005FiatCroma.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2006 Holden Caprice (WM)</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Holden_Caprice_(WM)"> <img src="2006HoldenCapriceWM.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2007 Hyundai i30</font></b></h3>
+      <a href ="https://fr.m.wikipedia.org/wiki/Fichier:Hyundai_i30_front_20070928.jpg"> <img src="2007Hyundaii30.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2008 Holden Colorado</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Holden_Colorado"> <img src="2008HoldenColorado.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2009 Honda Crosstour</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Honda_Crosstour"> <img src="2009HondaCrosstour.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2010 Hennessey Venom GT</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Hennessey_Venom_GT"> <img src="2010HennesseyVenomGT.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2011Honda Brio</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Honda_Brio"> <img src="2011HondaBrio.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2012Ginetta G60</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Ginetta_G60"> <img src="2012GinettaG60.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2013Haima M3</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Haima_M3"> <img src="2013HaimaM3.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2014Honda Spirior</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/File:Honda_Spirior_Concept_02_Auto_China_2014-04-23.jpg"> <img src="2014HondaSpirior.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2015Honda BR-V</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Honda_BR-V"> <img src="2015HondaBRV.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2016Geely Emgrand GL</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Geely_Emgrand_GL"> <img src="2016GeelyEmgrandGL.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2017Geely Yuanjing S1</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Geely_Yuanjing_S1"> <img src="2017GeelyYuanjingS1.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">Toyota Camry</font></b></h3>
+      <a href ="https://en.wikipedia.org/wiki/Toyota_Camry"> <img src="ToyotaCamry.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <h2><b><font face ="arial">2019Ferrari F8 Tributo</font></b></h3>
+      <a href ="https://fr.wikipedia.org/wiki/Fichier:Ferrari_F8_Tributo_Genf_2019_1Y7A5667.jpg"> <img src="2019FerrariF8Tributo.jpg"> </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <a href ="project.html"> <font size = "5">  reurrn to the main page</a><br>
+     
+    </body>
+</html>

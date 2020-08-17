@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>PROJECT</title>
+<style>
+body 
+{
+   background-color:black;
+	background-image : url("lights.jpg");
+	background-repeat: repeat-x;
+	background-attachment:fixed;
+	background-position:  50%;
+    
+
+}
+h1
+{
+color : gold;
+ font-variant:small-caps;
+ font-style:italic;
+ text-align:center;
+
+ 
+ 
+}
+h2
+{ 
+text-transform:capitalize;
+ text-indent:60;
+  text-align:center;
+  color: white;
+}
+
+p
+{
+border-style:dotted;
+border-color:white;
+border-width:thick;
+text-transform:capitalize;
+
+text-align:left;
+color:chartreuse;
+text-decoration:none;
+}
+
+</style>
+</head>
+
+<body>
+<h1> EVENTS</h1>
+<h2><em>Since the beginning of the creation , we humans were trying to be more creative in everything we do and we have the passion of discovering new places and enjoying our lives to the fullest and by the unstoppable marching of time we discovered countless places in our beautiful planet and to make the traveling easier and faster we created cars that could help us cross hundreds of kilometers in few hours . we didn’t stop in discovering our planet and only creating a faster ways of transports  we also created many new things to bring joy and happiness in our lives such as movies that could bring us tears or happiness in the same time. </em> </h2>
+<a href="voyage.html"> <font size="30"> <p> Our beautiful planet</p></font></a> 
+<a href="cars.html"> <font size="30"> <p> The evolution of cars </p></font></a> 
+<a href="movies.html"> <font size="30"> <p> The evolution of movies</p></font></a> 
+
+
+
+</body>
+</html>

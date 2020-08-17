@@ -1,0 +1,27 @@
+body
+	  {
+	   background-color:white;
+	   background-image : url("voyagebackground.jpg");
+	   background-repeat: repeat-x;
+	   background-attachment:fixed;
+	   background-position:  50%;
+
+	  
+	  }
+	  h2
+	  {color:red;}
+	  b
+	  {
+	  color:deeppink;
+	  }
+	  h3
+	  {
+	  text-align:left;
+	  color:black;
+	  }
+	  h3
+	  {border-style:outset;border-color:gainsboro;}
+	  img
+	  {
+	  float:left;
+	  }
